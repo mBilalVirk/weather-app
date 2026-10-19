@@ -1,0 +1,6 @@
+{
+  "name": "SkyCast — Modern Weather Forecast",
+  "description": "Production-quality modern weather web application featuring live real-time conditions, 24-hour & 7-day forecasts, air quality index, interactive weather maps, and unit customization.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
